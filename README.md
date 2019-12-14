@@ -9,6 +9,6 @@ Nombre: usuario<br/>
 Contraseña: password<br/>
 
 En su caso el administrador se puede acceder a la lista de los tours con posibilidad de crear uno nuevo, editar o borrarlo.<br/>
-Datos de inicio de sesión para administrador:<br/>
+*Datos de inicio de sesión para administrador:*<br/>
 Nombre: admin<br/>
 Contraseña: admin<br/>
